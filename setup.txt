@@ -1,0 +1,13 @@
+Setup Steps
+
+1. laravel new f1pickem
+
+2. composer require laravel/jetstream
+
+3. composer install
+
+4. php artisan jetstream:install livewire
+
+5. npm install && npm run dev
+
+6. php artisan migrate
